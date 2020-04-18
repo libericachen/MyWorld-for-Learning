@@ -16,5 +16,5 @@ Mark of the start of Java studying
 
 【多少事，从来急；天地转；光阴迫。一万年太久，只争朝夕。】
 
-# Java->dart&swift->vert.x-Javafx->es4x
-# 基础    移动端     云端    桌面   web端
+# Java -> dart&swift -> vert.x -> Javafx -> es4x
+# 基础---移动端---云端---桌面---web端
